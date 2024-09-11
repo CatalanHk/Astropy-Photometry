@@ -1,7 +1,8 @@
 # Astropy-Photometry
 Astropy tutorial on the basics of photometry and light curve modeling, inspired on Micah Laing repository.
-Data: 
-Section 1 to 3: Included in the repository.
+Data: we use ngc '1261' and wasp 12b systems.
+
+Section 1 to 3: https://archive.stsci.edu/prepds/hugs/ 
 Section 4: https://www.astro.louisville.edu/software/astroimagej/examples/
 
 ## Section 1

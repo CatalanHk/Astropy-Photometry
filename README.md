@@ -1,8 +1,6 @@
 # Astropy-Photometry
 Astropy tutorial on the basics of photometry and light curve modeling, inspired on Micah Laing repository.
 
-
-# Astropy Photometry.
 ## Section 1
 * FITS Raw data extraction and Visualization
 * Image Section Creation
